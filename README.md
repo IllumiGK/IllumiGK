@@ -43,5 +43,5 @@ Machine learning project using Python and Scikit-learn, combining collaborative 
 
 ## 📫 Contact
 
-LinkedIn: (your link here)  
+LinkedIn: https://www.linkedin.com/in/keyon-bent-1858412b7/
 GitHub: github.com/IllumiGK
