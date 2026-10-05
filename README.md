@@ -20,6 +20,9 @@ Browser-based game with real-time gameplay, sprite-based rendering, collision de
 ### 🎬 Movie Recommendation System
 Machine learning project using Python and Scikit-learn, combining collaborative filtering and demographic-based recommendations.
 
+### Hospital Outpatient Booking System
+Full stack group project using Javascript, C#(.Net), and SQL
+
 ---
 
 ## 🛠 Tech Stack
